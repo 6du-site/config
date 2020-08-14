@@ -1,1 +1,1 @@
-https://code.aliyun.com/6du.space/font.git
+git@github.com:6du-space/font.git
